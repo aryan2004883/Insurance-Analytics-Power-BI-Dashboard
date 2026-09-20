@@ -1,4 +1,0 @@
-# Insurance-Analytics-Power-BI-Dashboard
-Developed an interactive Power BI dashboard to analyze insurance policies, premiums, claims, and customer insights.
-Created KPI cards, slicers, bar charts, donut charts, line charts, and tables using DAX and Power Query.
-Enabled real-time analysis of premium amounts, claim status, policy types, and customer age groups for data-driven decision-making.
